@@ -42,8 +42,11 @@ Los Access Points asignan VLAN C a los dispositivos inalámbricos.
 🌐 Esquema de Direccionamiento IP
 
 Servidor DHCP -> 10.20.30.128 /27
+
 VLAN A -> 10.20.30.160 /27
+
 VLAN B -> 10.20.30.192 /27
+
 VLAN C -> 10.20.30.224 /27
 
 🧩 Configuración Implementada
@@ -161,9 +164,13 @@ Los dispositivos Wireless reciben IP automáticamente del DHCP.
 🔎 Pruebas Realizadas
 
 ✔ Obtención automática de IP en todas las PCs
+
 ✔ Comunicación entre dispositivos de la misma VLAN
+
 ✔ Comunicación entre VLANs mediante Router-on-a-Stick
+
 ✔ Conectividad entre dispositivos cableados e inalámbricos
+
 ✔ Verificación con ping entre distintas VLANs
 
 📚 Conceptos Aplicados
