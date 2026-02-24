@@ -1,7 +1,8 @@
 
-<img src="https://github.com/user-attachments/assets/9451346b-d28f-4493-9d07-dcd45be9bc36" width="70%">
+<img src="https://github.com/user-attachments/assets/9451346b-d28f-4493-9d07-dcd45be9bc36" width="80%">
 
 Proyecto Cisco Packet Tracer – Red con DHCP Centralizado y VLANs
+
 📌 Descripción General
 
 Este proyecto consiste en el diseño e implementación de una red segmentada mediante VLANs, con un Servidor DHCP centralizado encargado de asignar automáticamente direcciones IP a todos los dispositivos de la red.
