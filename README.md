@@ -1,7 +1,5 @@
 
-<img width="1233" height="701" alt="TopologiaVLANS" src="https://github.com/user-attachments/assets/9451346b-d28f-4493-9d07-dcd45be9bc36" />
-<img width="1233" height="701" alt="TopologiaVLANS" src="https://github.com/user-attachments/assets/9451346b-d28f-4493-9d07-dcd45be9bc36" />
-
+<img src="https://github.com/user-attachments/assets/9451346b-d28f-4493-9d07-dcd45be9bc36" width="70%">
 
 Proyecto Cisco Packet Tracer – Red con DHCP Centralizado y VLANs
 📌 Descripción General
